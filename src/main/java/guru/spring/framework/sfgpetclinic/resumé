@@ -1,2 +1,0 @@
-qualifier : use bean by name to autowire
-Inject : fait la meme chose qu'autowire c juste qu'injecte vient du java jee et nn de spring
